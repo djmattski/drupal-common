@@ -1,0 +1,13 @@
+{
+    "name": "mattjb/drupal-common",
+    "description": "A few helper functions",
+    "license": "MIT",
+    "authors": [
+		{
+		  "name": "Matt Bondi",
+		}
+	],
+    "require": {
+        "php": ">=5.4.0",
+    }
+}
