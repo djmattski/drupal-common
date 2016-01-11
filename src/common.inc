@@ -6,6 +6,7 @@
  * Contains common functionality for the entire base theme.
  */
 
+namespace Common;
 
 /**
 * Handle form messages
