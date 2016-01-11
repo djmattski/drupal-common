@@ -2,7 +2,7 @@
     "name": "mattjb/drupal-common",
     "description": "A few helper functions",
     "license": "MIT",
-    "version": "0.1",
+    "version": "1.0.0",
     "authors": [
 		{
 		  "name": "Matt Bondi"
