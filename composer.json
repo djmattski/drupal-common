@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Common": "src/Common"
+            "Common\": "src/Common"
         }
     }
 }
