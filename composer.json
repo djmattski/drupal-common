@@ -3,6 +3,7 @@
     "description": "A few helper functions",
     "license": "MIT",
     "minimum-stability": "dev",
+    "version": "1.0.0",
     "authors": [
 		{
 		  "name": "Matt Bondi"
