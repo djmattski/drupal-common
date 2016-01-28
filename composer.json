@@ -2,7 +2,6 @@
     "name": "mattjb/drupal-common",
     "description": "A few helper functions",
     "license": "MIT",
-    "version": "1.0.0",
     "minimum-stability": "dev",
     "authors": [
 		{
@@ -14,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Common\": "src/Common"
+            "Common\\": "src/"
         }
     }
 }
